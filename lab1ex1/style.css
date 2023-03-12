@@ -1,0 +1,30 @@
+body { margin:300;
+  padding: 10px;
+  background-color: grey;
+}
+input {
+  padding: 100px;
+  border: 3px solid #777;
+  font-size: 22px;
+  color: blue;
+}
+input {
+padding:15px;
+color: #FF00E4;
+font-size:20px;
+}
+button {
+  padding: 20px;
+}
+.card{
+width:200px;
+size:100px;
+border:3px solid #555;
+padding:16 px
+backround-color:grey;
+text-align:center;
+}
+button:hover {
+  cursor: pointer;
+backround-color: crimson;
+}
