@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "deepmerge": "^4.3.1",
+    "sass": "~1.32",
+    "sass-loader": "^13.2.2"
+  },
+  "dependencies": {
+    "vue-loader": "^17.1.1",
+    "vuetify": "^3.2.5",
+    "webpack-plugin-vuetify": "^2.0.1"
+  }
+}
